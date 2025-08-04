@@ -2,6 +2,7 @@
 ## Folder Structure
 
 Prepare the following folders to organize this repo:
+```none
 ├── data
 │   ├── LoveDA
 │   │   ├── Train
